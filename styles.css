@@ -12,7 +12,7 @@ html {
 }
 
 body {
-    background: #5ab4dd;
+    background: #0e0f0f;
     margin: 30px 50px;
     line-height: 1.4;
 }
@@ -137,10 +137,10 @@ top-box .price {
     grid-template-columns: repeat(auto-fit, minmax (200px, 1fr));
 } 
 
-/*.portfolio img {
+.portfolio img {
     width: 100%;
     box-shadow: var(--shadow);
-} */
+} 
 
 footer {
     margin-top: 2rem;
